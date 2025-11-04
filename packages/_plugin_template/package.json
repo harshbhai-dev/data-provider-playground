@@ -1,7 +1,7 @@
 {
-  "name": "@every-plugin/template",
-  "version": "0.0.1",
-  "description": "Template plugin for every-plugin framework",
+  "name": "@near-intents/wormhole-provider",
+  "version": "0.1.0",
+  "description": "Wormhole data provider plugin for NEAR Intents - collects volume, rates, liquidity depth, and supported assets",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "type": "module",
